@@ -1,0 +1,1000 @@
+   42  ls -l
+   43  nano sleeper.sh 
+   44  chmod 744 sleeper.sh 
+   45  ./sleeper.sh 
+   46  ls -l
+   47  cd /opt/131224-wdm/rechyn/
+   48  ls -la
+   49  nano task_RECHYN.sh
+   50  chmod 744 task_RECHYN.sh
+   51  ls -la
+   52  crontab -e
+   53  ls -la
+   54  nano task_RECHYN.sh
+   55  crontab -e
+   56  ls -la
+   57  crontab -e
+   58  crontab -l
+   59  tar -czf archive.tar.gz *_17.03.25
+   60  history > history.txt
+   61  tar -czf archive.tar.gz history.txt *_17.03.25 
+   62  crontab -l
+   63  ls -la
+   64  cat task_RECHYN.sh 
+   65  cd /opt/131224-wdm/rechyn/
+   66  ls -la
+   67  nano task_RECHYN.sh 
+   68  ls -la
+   69  crontab -l
+   70  ls -la
+   71  crontab -e
+   72  crontab -l
+   73  cat /opt/131224-wdm/olha_prekrasna/task_OLYA.sh
+   74  crontab -e
+   75  cd /tmp/
+   76  ls -la
+   77  cd
+   78  ls -la
+   79  crontab -l
+   80  cat /opt/131224-wdm/dennis/task_DENNIS.sh
+   81  ls -la
+   82  cd /opt/131224-wdm/rechyn/
+   83  ls -la
+   84  tar -tvzf archive.tar.gz
+   85  ls -la
+   86  tar -tvzf archive.tar.gz
+   87  ls -la
+   88  cat history.txt 
+   89  ls -la
+   90  rm archive.tar.gz 
+   91  ls -la
+   92  tar -tvzf archive.tar.gz
+   93  cd /opt/131224-wdm/AlexN
+   94  ls -la
+   95  rm sleeper.sh.save 
+   96  ls -l
+   97  nano sleeper.sh
+   98  ps -aux
+   99  ps aux --no-heading | wc -l
+  100  nano sleeper.sh 
+  101  chmod 744 sleeper.sh 
+  102  ./sleeper.sh 
+  103  nano sleeper.sh 
+  104  ./sleeper.sh 
+  105  nano sleeper.sh 
+  106  ./sleeper.sh 
+  107  nano sleeper.sh 
+  108  ls -a
+  109  mkdir git-merge-test
+  110  cd git-merge-test
+  111  git init .
+  112  echo "this is some content to mess with" > merge.txt
+  113  git add merge.txt
+  114  git commit -am"we are commiting the inital content"
+  115  git checkout -b new_branch_to_merge_later
+  116  echo "totally different content to merge later" > merge.txt
+  117  git commit -am"edited the content of merge.txt to cause a conflict"
+  118  git status
+  119  git checkout master
+  120  ls -al
+  121  cat merge.txt 
+  122  nano sleeper.sh 
+  123  git checkout -b merge.txt
+  124  git checkout master
+  125  ls -al
+  126  git checkout main
+  127  Switched to branch 'main'
+  128  exit
+  129  nano .ssh/authorized_keys
+  130  exit
+  131  nano .ssh/authorized_keys
+  132  mc
+  133  cd /opt/
+  134  mkdir -p 210225-ptm/platonova
+  135  ls l ./
+  136  cd 210225-ptm
+  137  ls -l ./
+  138  exit
+  139  mkdir -p /opt/210225-ptm/schwab
+  140  cat schwab
+  141  cat /opt/210225-ptm/schwab
+  142  cat opt
+  143  exit
+  144  ls -la
+  145  ls
+  146  exit
+  147  ls -l /opt
+  148  ls -l /opt/210225-ptm
+  149  exit
+  150  cd /otp
+  151  cd /opt/210225-ptm
+  152  ls
+  153  ls -l
+  154  mkdir -p /opt/210225-ptm/Pankow
+  155  ls
+  156  nano .ssh/authorized_keys
+  157  ls /opt/
+  158  cd /opt/210225-ptm/
+  159  ls
+  160  mkdir vadym
+  161  ls
+  162  cd ..
+  163  ls -l
+  164  cd 290724-ptm/
+  165  ls
+  166  cd .
+  167  cd ..
+  168  cd 210225-ptm/
+  169  ls
+  170  clear
+  171  ls -l /opt
+  172  ls /opt
+  173  ls /opt/210225-ptm
+  174  touch myscript.sh
+  175  nano myscript.sh
+  176  history
+  177  myscript.sh
+  178  nano "$(ls -t /opt/ВАШАГРУППА | head -n 1)"
+  179  nano .ssh/authorized_keys
+  180  nano .ssh/authorized_keys
+  181  cat .ssh/authorized_keys | wc -l
+  182  nano .ssh/authorized_keys
+  183  mkdir -p /opt/210225-ptm
+  184  mkdir -p /opt/210225-ptm/chumak
+  185  ls
+  186  cd /opt/210225-ptm/
+  187  ls
+  188  scp -i C:\Users\HP-Ar\.sshC:\Users\HP-Ar\.ssh\C:\Users\HP-Ar\.sshC:\Users\HP-Ar\.ssh
+  189  mkdir -p /opt/210225-ptm/xhumanalex
+  190  ls
+  191  cd /210225-ptm
+  192  cd /xhumanalex
+  193  cd opt
+  194  tree
+  195  mkdir -p /opt/210225-ptm
+  196  tree
+  197  cd 210225-ptm
+  198  history
+  199  ls
+  200  cd opt
+  201  cd /opt
+  202  ls
+  203  cd /opt/210225-ptm
+  204  ls
+  205  mkdir -p /opt/210225-ptm/Igor
+  206  ls -l /opt/210225-ptm
+  207  touch file.txt
+  208  ls -l
+  209  cd /opt/111124-ptm/
+  210  ls
+  211  cd Oleksandr_Kiselov/
+  212  ls
+  213  ls -a
+  214  cat task_Oleksandr_Kiselov.sh 
+  215  ls *.sh
+  216  cd myscripts19/
+  217  ls
+  218  cd ..
+  219  mkdir -p /opt/210225-ptm/petrov
+  220  ls
+  221  mkdir -p /opt/210225-ptm/petrov
+  222  ls
+  223  mkdir -p /opt/210225-ptm/petrov/home_work
+  224  cat opt/2102
+  225  cat /opt/210225-ptm/petrov
+  226  touch /opt/210225-ptm/petrov/home_work.txt
+  227  cat /opt/210225-ptm/petrov
+  228  nano /opt/210225-ptm/petrov
+  229  nano /opt/210225-ptm/petrov/home_work
+  230  top
+  231  clera
+  232  clear
+  233  top
+  234  clera
+  235  clear
+  236  ps -ef
+  237  clear
+  238  cd /opt/240125-wde/
+  239  ls-l
+  240  ls -l
+  241  cd /opt/240125-wde/ivan_krykunov/
+  242  touch file.txt
+  243  ls -la
+  244  chmod
+  245  chmod u
+  246  chmod u+x
+  247  chmod u+x file.txt
+  248  ls - l
+  249  ls -l
+  250  chmod u-rwx file.txt 
+  251  ls - l
+  252  ls -l
+  253  cat
+  254  cd /opt/111124-ptm/
+  255  cd Oleksandr_Kiselov/
+  256  ls
+  257  cat task_Oleksandr_Kiselov.sh 
+  258  cat result.tar
+  259  cd ../
+  260  ls
+  261  cd toyli/
+  262  ls
+  263  cat task_toyli.sh 
+  264  ls
+  265  crontab -e
+  266  cat history.txt 
+  267  cd /opt/131224-wdm/normanfolder
+  268  ls
+  269  mkdir opt
+  270  ls
+  271  cd /opt/131224-wdm/normanfoldervcd /opt/131224-wdm/normanfolder++
+  272  cd opt
+  273  nano sleeper.sh
+  274  ls -la
+  275  chmod +x sleeper.sh
+  276  ls -la
+  277  ./sleeper.sh
+  278  nano sleeper.sh
+  279  ./sleeper.sh
+  280  ls -la
+  281  nano sleeper.sh
+  282  ls -la
+  283  cat os_name.txt
+  284  cat os_info.txt
+  285  cat cpuinfo.txt
+  286  cat 99.txt
+  287  pwd
+  288  scp -r ec2-user@ip-10-0-42-153:/opt/131224-wdm/normanfolder/opt "C:\Users\lined\Downloads"
+  289  touch file.txt
+  290  ls 
+  291  ls
+  292  mkdir -p /opt/210225-ptm/oleksandr_p
+  293  ls
+  294  ls /bin
+  295  clear
+  296  cd /opt/240125-wde/
+  297  ls -al
+  298  cd mark_kozov/
+  299  >> file.txt
+  300  ls -l
+  301  ls -al
+  302  chmod u+x 
+  303  chmod u+x file.txt 
+  304  ls -al
+  305  chmod u-rwx file.txt 
+  306  ls -al 
+  307  chmod u+rwx file.txt 
+  308  ls -al
+  309  chmod g+x file.txt 
+  310  ls -l
+  311  chmod o+wx
+  312  chmod o+wx file.txt 
+  313  ls -al
+  314  chmod ugo-rwx file.txt 
+  315  lss -al
+  316  ls -al
+  317  chmod ugo+rwx file.txt 
+  318  chmod ugo-rwx
+  319  chmod ugo-rwx file.txt 
+  320  chmod u+rw,o+x file.txt 
+  321  ls -al
+  322  chmod o+r file.txt 
+  323  ls -al
+  324  chmod 0 file.txt 
+  325  ls -l\
+  326  ls
+  327  mkdir -cd /opt/240125-wde/
+  328  cd /opt
+  329  ls
+  330  cd/240125-wde
+  331  cd /240125-wde
+  332  cd 240125-wde/
+  333  ls
+  334  cd mariia.rybalka
+  335  touch file.txt
+  336  ls
+  337  cat /opt/210225-ptm/petrov/home_work
+  338  cat /opt/210225-ptm/petrov
+  339  ls -j
+  340  ls -l
+  341  /opt/240125-wde/pavel_liutskanov/
+  342  cd /opt/240125-wde/ivan_krykunov/
+  343  ls -la
+  344  cat file.txt
+  345  cmod u+rwx file.txt
+  346  ls -l
+  347  chmod u+rwx file.txt
+  348  ls -l
+  349  chmod g+x file.txt 
+  350  ls -l
+  351  pwd
+  352  cd
+  353  pwd
+  354  cat /opt/240125-wde/danu.marian/
+  355  /opt/240125-wde/danu.marian/
+  356  cd /opt/240125-wde/danu.marian/
+  357  /opt/240125-wde/danu.marian/script.sh
+  358  exit
+  359  env
+  360  whoami
+  361  ls
+  362  ls /bin
+  363  export NAME=ivan
+  364  top
+  365  ps -ef
+  366  clear
+  367  cd /opt/240125-wde/
+  368  mkdir chumak
+  369  cd chumak/
+  370  cd ..
+  371  ls -l
+  372  cd chumak/
+  373  touch file.txt
+  374  ls -l
+  375  ls -la
+  376  ls
+  377  ls -l
+  378  chmod u+x file.txt 
+  379  ls -l
+  380  chmod u-rwx file.txt 
+  381  ls -l
+  382  cat file.txt 
+  383  chmod u+rwx file.txt 
+  384  ls -l
+  385  chmod g+x file.txt 
+  386  ls -l
+  387  chmod ugo-rwx file.txt 
+  388  ls -l
+  389  chmod ugo+r file.txt 
+  390  ls -l
+  391  chmod u+w,g-r,o+x file.txt 
+  392  ls -l
+  393  history
+  394  ls -l
+  395  chmod 0 file.txt 
+  396  ls -l
+  397  chmod 1 file.txt 
+  398  ls -l
+  399  chmod 11 file.txt 
+  400  ls -l
+  401  chmod 111 file.txt 
+  402  ls -l
+  403  chmod 744 file.txt 
+  404  ls -l
+  405  chmod 764 file.txt 
+  406  ls -l
+  407   cd /opt/240125-wde/
+  408  cd denys_ryzhenko/
+  409  touch file.txt
+  410  ls -al
+  411  chmod u+x file.txt 
+  412  ls -l
+  413  chmod u-rwx file.txt 
+  414  ls -l
+  415  chmod u+rwx file.txt 
+  416  ls -l
+  417  chmod g+x file.txt 
+  418  ls --l
+  419  ls -l
+  420  nano
+  421  chmod u+x script.sh 
+  422  ls -l
+  423  ls -la
+  424  ./script.sh 
+  425  cd 
+  426   pwd
+  427  echo $OLDPWD
+  428  /opt/240125-wde/denys_ryzhenko/script.sh 
+  429  exit
+  430  /opt/240125-wde/tatjanafendel
+  431  cd /opt/240125-wde/
+  432  ls
+  433  cd michael_belousov/
+  434  pwd
+  435  ls -la
+  436  >file.txt
+  437  ls -la
+  438  chmod u+x file.txt
+  439  ls -la
+  440  mc
+  441  chmod u-rwx file.txt
+  442  ls -la
+  443  chmod u+rwx file.txt
+  444  ls -la
+  445  pwd
+  446  >script.sh
+  447  nano script.sh 
+  448  ls -la
+  449  chmod u+x script.sh 
+  450  ls -la
+  451  cat script.sh 
+  452  ./script.sh 
+  453  echo $OLD_PWD
+  454  echo $OLDPWD
+  455  exit
+  456  top
+  457  clear
+  458  whoami
+  459  ls 
+  460  cd /opt/240125-wde/
+  461  cd /opt/240125-wde/danu.marian/
+  462  touch file.txt
+  463  ls -l
+  464  ls -la
+  465  chmod u+x file.txt
+  466  ls -l
+  467  chmod u-rwx file.txt 
+  468  ls -l
+  469  cat file.txt 
+  470  chmod u+rwx file.txt 
+  471  cat file.txt 
+  472  ls -l
+  473  chmod g+x file.txt 
+  474  ls -l
+  475  chmod 744 file.txt 
+  476  ls -l
+  477  nano script.sh
+  478  ls -l
+  479  chmod u+x script.sh 
+  480  ls -l
+  481  cat script.sh 
+  482  cat script.sh ./script.sh
+  483  ./script.sh 
+  484  cd /opt/131224-wdm/koriahin-serhii/
+  485  ls -la
+  486  nano sleeper.sh
+  487  ./sleeper.sh
+  488  chmod 744 sleeper.sh 
+  489  ./sleeper.sh 
+  490  nano sleeper.sh 
+  491  ./sleeper.sh 
+  492  cd /opt/240125-wde/
+  493  ls
+  494  cd /opt/240125-wde/MalaiMihail
+  495  ls
+  496  ls -l
+  497  touch file.txt
+  498  ls -l
+  499  chmod u+x file.txt
+  500  ls -l
+  501  chmod u-rwx file.txt
+  502  ls -l
+  503  chmod u+rwx file.txt
+  504  nano script.sh
+  505  cat script.sh
+  506  ./script.sh
+  507  ls -l
+  508  chmod u+x script.sh
+  509  ./script.sh
+  510  pwd
+  511  echo $OLDPWD
+  512  PWD
+  513  pwd
+  514  cd /opt/240125-wde/mark_kozov/
+  515  ls -al
+  516  chmod 111 file.txt 
+  517  ls -l
+  518  chmod 744 file.txt 
+  519  ls -l
+  520  >> script.sh
+  521  nano script.sh 
+  522  ls -al
+  523  chmod 744 script.sh 
+  524  ls -al
+  525  cat script.sh 
+  526  ./script.sh 
+  527  env
+  528  echo $OLDPWD
+  529  nano .ssh/authorized_keys
+  530  cd /opt/131224-wdm/Rumiia/
+  531  vi sleeper.sh
+  532  chmod 744 sleeper.sh
+  533  ./sleeper.sh 
+  534  vi sleeper.sh
+  535  cat /proc/cpuinfo >> sleeper.sh 
+  536  vi sleeper.sh
+  537  grep "^NAME=" /etc/os-release >> sleeper.sh 
+  538  grep "^NAME=" /etc/os-release
+  539  grep "^NAME=" /etc/os-release | awk -F= '{print $2}' | tr -d '"'
+  540  grep "^NAME=" /etc/os-release | awk -F= '{print $2}' | tr -d '"' >> sleeper.sh 
+  541  mkdir HW15
+  542  vi sleeper.sh
+  543  cd HW15
+  544  ls -la
+  545  cd /opt/131224-wdm/Rumiia/HW15/
+  546  ls -la
+  547  ls
+  548  ls HW15
+  549  cd /opt/131224-wdm/Rumiia/
+  550  ls HW15
+  551  ls -la
+  552  vi sleeper.sh
+  553  ./sleeper.sh 
+  554  vi sleeper.sh
+  555  ./sleeper.sh 
+  556  cd /opt/131224-wdm/Rumiia/HW15/
+  557  ls -la
+  558  cat /proc/cpuinfo
+  559  cd /opt/131224-wdm/Rumiia/
+  560  ls -la
+  561  vi sleeper.sh 
+  562  cd /opt/131224-wdm/Rumiia/HW15/
+  563  ls -l
+  564  ls -la
+  565  cd /opt/131224-wdm/Rumiia/
+  566  rm -r HW15
+  567  ls -la
+  568  vi sleeper.sh 
+  569  chmod 744 sleeper.sh 
+  570  ./sleeper.sh 
+  571  cd /opt/131224-wdm/Rumiia/
+  572  ls -la
+  573  vi sleeper.sh 
+  574  ./sleeper.sh 
+  575  cd /opt/131224-wdm/Rumiia/
+  576  ls -la
+  577  vi sleeper.sh 
+  578  cd /opt/131224-wdm/Rumiia/
+  579  ls -la
+  580  vi sleeper.sh 
+  581  cd /opt/131224-wdm/Rumiia/
+  582  ls -la
+  583  vi sleeper.sh 
+  584  cd /opt/131224-wdm/Rumiia/
+  585  ls -la
+  586  vi sleeper.sh 
+  587  chmod 744 sleeper.sh 
+  588  chmod 744 sleeper.sh
+  589  ./sleeper.sh 
+  590  ./sleeper.sh
+  591  :wq
+  592  ./sleeper.sh
+  593  cd /opt/131224-wdm/Rumiia/
+  594  ls -la
+  595  cd /opt/131224-wdm/Rumiia/hw15/
+  596  ls -la
+  597  cat /opt/131224-wdm/Rumiia/linux_hw15.txt 
+  598  cd /opt/131224-wdm/Rumiia/
+  599  git init
+  600  git add sleeper.sh
+  601  git commit -m "added script sleeper.sh"
+  602  git@github.com:Rumiia-Kontsiialova/Homework15.git
+  603  https://github.com/Rumiia-Kontsiialova/Homework15.git
+  604  whoami
+  605  scp ec2-user@ip-10-0-42-153:/opt/131224-wdm/Rumiia/sleeper.sh ~/Desktop
+  606  scp ec2-user@ip-10-0-42-153:/opt/131224-wdm/Rumiia/sleeper.sh ~/Desktop/
+  607  scp ec2-user@ip-10-0-42-153:/opt/131224-wdm/Rumiia/sleeper.sh ~/Desktop/Linux
+  608  scp ec2-user@ip-10-0-42-153:/opt/131224-wdm/Rumiia/sleeper.sh ~/Desktop/Linux/
+  609  scp ec2-user@ip-10-0-42-153:sleeper.sh ~/Desktop/Linux/
+  610  scp ec2-user@ip-10-0-42-153:/opt/131224-wdm/Rumiia/sleeper.sh ~/Desktop 
+  611  ls -l /opt/131224-wdm/Rumiia/sleeper.sh
+  612   ec2-user@ip-10-0-42-153:/opt/131224-wdm/Rumiia/sleeper.sh ~/Desktop
+  613  hostname -I
+  614   ec2-user@10.0.42.153 172.17.0.1:/opt/131224-wdm/Rumiia/sleeper.sh ~/Desktop
+  615   ec2-user@10.0.42.153:/opt/131224-wdm/Rumiia/sleeper.sh ~/Desktop
+  616  ls ~/Desktop
+  617   ec2-user@10.0.42.153:/opt/131224-wdm/Rumiia/sleeper.sh ~/home/ec2-user/Desktop
+  618   ec2-user@10.0.42.153:/opt/131224-wdm/Rumiia/sleeper.sh /home/ec2-user/Desktop
+  619   ec2-user@ip-10.0.42.153:/opt/131224-wdm/Rumiia/sleeper.sh /home/ec2-user/Desktop
+  620  scp ec2-user@10.0.42.153:/opt/131224-wdm/Rumiia/sleeper.sh /home/ec2-user/Desktop
+  621  scp ec2-user@10.0.42.153:/opt/131224-wdm/Rumiia/sleeper.sh /home/ec2-user/Desktop/
+  622  scp /opt/131224-wdm/Rumiia/sleeper.sh /home/ec2-user/Desktop/
+  623  scp ec2-user@ip-10-0-42-153:/opt/131224-wdm/Rumiia/sleeper.sh /home/ec2-user/Desktop/
+  624  cd /opt/131224-wdm/koriahin-serhii/
+  625  nano sleeper.sh 
+  626  ./sleeper.sh 
+  627  ls -la
+  628  cat os_name.txt 
+  629  cat os_clean_name.txt 
+  630  cat cpu_info.txt 
+  631  pwd
+  632  nano sleeper.sh 
+  633  ./sleeper.sh 
+  634  ls -la
+  635  cat os_name.txt 
+  636  cat os_clean_name.txt 
+  637  history
+  638  mkdir -p /opt/210225-ptm
+  639  mkdir -p /opt/210225-ptm/Oleg
+  640  tree opt
+  641  /opt
+  642  cd /opt/210225-ptm/
+  643  ls
+  644  cd tatjanafendel/
+  645  cd /opt/240125-wde/
+  646  cd /opt/240125-wde/tatjanafendel
+  647  cd /opt/131224-wdm/koriahin-serhii/
+  648  ls -la
+  649  nano task_serhii.sh
+  650  chmod 744 task_serhii.sh 
+  651  crontab -e
+  652  tar -cvf archive_serhii.tar *_$(date +"%d.%m.%y")
+  653  ls -la
+  654  crontab -e
+  655  tar -tf archive_serhii.tar 
+  656  history > history_serhii.txt
+  657  tar -rvf archive_serhii.tar history_serhii.txt 
+  658  tar -tf archive_serhii.tar 
+  659  ls -la
+  660  crontab -e
+  661  ls -la
+  662  cat output.log 
+  663  cd ..
+  664  ls
+  665  cd Viktor/
+  666  ls -la
+  667  nano task_Viktor.sh 
+  668  cd output.log/
+  669  ls
+  670  ls -la
+  671  cd .. ..
+  672  cd ..
+  673  cd koriahin-serhii/
+  674  ls -la
+  675  crontab -e
+  676  cd /opt/240125-wde/
+  677  cd /opt/240125-wde/Kateryna Stepanenko
+  678  cd /opt/240125-wde/KaterynaStepanenko
+  679  cd /opt/240125-wde/Kateryna_Stepanenko
+  680  ls -l
+  681  touch file.txt1
+  682  ls -l
+  683  chmod u+x file.txt1
+  684  ls -l
+  685  chmod u-rwx file.txt1 
+  686  ls -l
+  687  chmod u+rwx file.txt1 
+  688  ls -l
+  689  clean
+  690  chmod ugo-rwx file.txt
+  691  chmod 0 file.txt1 
+  692  ls -l
+  693  chmod 1 file.txt1 
+  694  ls -l
+  695  chmod 111 file.txt1 
+  696  ls -l
+  697  chmod 744 file.txt1 
+  698  ls -l
+  699  >script.sh
+  700  nano script.sh
+  701  script.sh
+  702  cat script.sh
+  703  ./script.sh
+  704  ls -l
+  705  chmod 744 file.txt1 
+  706  ls -lö
+  707  ls -l
+  708  chmod 744 script.sh
+  709  ls -l
+  710  ./script.sh
+  711  cd 
+  712  pwd
+  713  echo $OLDPWD
+  714  /opt/240125-wde/Kateryna_Stepanenko/script.sh
+  715  nano .ssh/authorized_keys
+  716  учше
+  717  exit
+  718  pwd
+  719  env
+  720  echo $OLDPWD
+  721  cd 
+  722  vim oksana.sh
+  723  ls-l
+  724  u+x oksana.sh
+  725  ./oksana.sh
+  726  env | grep PATH
+  727  ls -la /bin
+  728  cp oksana.sh /usr/sbin
+  729  pwd
+  730  history
+  731  env
+  732  OLDPWD
+  733  echo $OLDPWD
+  734  cd
+  735  cd 
+  736  vim irina.sh
+  737  chmod u+x irina.sh
+  738  ./irina.sh
+  739  ls -la /bin
+  740  cp irina.sh /usr/sbin
+  741  pwd 
+  742  cd /opt/131224-wdm/AlexN/
+  743  pwd
+  744  cd
+  745  history
+  746  env
+  747  echo $OLDPWD
+  748  cd /opt/131224-wdm/AlexN
+  749  vim Alex19.sh
+  750  cat Alex19.sh 
+  751  ls -l
+  752  chmod 744 Alex19.sh 
+  753  ls -l
+  754  ./Alex19.sh 
+  755  env | grep PATH
+  756  ls -la /bin
+  757  cp Alex19.sh /usr/sbin/
+  758  pwd
+  759  export PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/opt/131224-wdm/AlexN
+  760  cd
+  761  Alex19.sh 
+  762  export EXIT=/opt/131224-wdm/AlexN/Alex19.sh
+  763  $EXIT
+  764  env
+  765  wheris
+  766  cd /opt/131224-wdm/Alla
+  767  env
+  768  echo $OLDPWD
+  769  vim alla_sh.sh 
+  770  clear
+  771  ls -l
+  772  chmod u+x alla_sh.sh
+  773  ls -l
+  774  ./alla_sh.sh
+  775  cat alla_sh.sh
+  776  clear
+  777  env | grep PATH
+  778  ls -la /bin
+  779  cp alla_sh.sh /usr/sbin
+  780  pwd
+  781  export PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/opt/131224-wdm/Alla
+  782  cd 
+  783  alla_sh.sh
+  784  export ALLA_SH=/opt/131224-wdm/Alla
+  785  export ALLA_SH=/opt/131224-wdm/Alla/alla_sh.sh
+  786  $ALLA_SH
+  787  echo $ALLA_SH
+  788  cd /opt/131224-wdm/koriahin-serhii/
+  789  ls -la
+  790  env | grep PATH
+  791  cd opt/131224-wdm/olenagert
+  792  cd /opt/131224-wdm/olenagert
+  793  pwd
+  794  cd
+  795  clear
+  796  history
+  797  env
+  798  echo $OLDPWD
+  799  cd /opt/131224-wdm/olenagert
+  800  vim olena.sh
+  801  clear
+  802  ls -l
+  803  chmod u+x Olena.sh
+  804  chmod u+x olena.sh
+  805  ./olena.sh 
+  806  cat olena.sh 
+  807  env | grep PATH
+  808  ls -la /bin 
+  809  cp olena.sh /usr/sbin
+  810  pwd
+  811  export PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/opt/131224-wdm/olenagert
+  812  cd 
+  813  olena.sh 
+  814  export OLENA=/opt/131224-wdm/olenagert/olena.sh 
+  815  $OLENA
+  816  echo $OLENA
+  817  $OLENA
+  818  git clone git@github.com:OlenaGert/new-repository.git
+  819  cd new-repository/
+  820  pwd
+  821  exit
+  822  cd /opt/131224-wdm/nastyaKo/
+  823  pwd
+  824  emv
+  825  env
+  826  echo $OLDPWD
+  827  cd
+  828  echo $OLDPWD
+  829  cd /opt/131224-wdm/nastyaKo
+  830  vim script1903.sh
+  831  chmod 744 script1903.sh 
+  832  ls -l
+  833  ./script1903.sh 
+  834  cat script1903.sh 
+  835  env | grep PATH
+  836   ls -la /bin
+  837  cp script1903.sh /home/ec2-user/bin
+  838  ls -la /home/ec2-user/bin
+  839  pwd
+  840  script1903.sh 
+  841  pwd
+  842  export NASTYA=/opt/131224-wdm/nastyaKo/script1903.sh
+  843  $NASTYA
+  844  exit
+  845  pwd /opt/131224-wdm/oksana
+  846  env
+  847  cd /opt/131224-wdm/dennis
+  848  clear
+  849  ls
+  850  env
+  851  oldpwd
+  852  echo $OLDPWD 
+  853  св $OLDPWD 
+  854  cd $OLDPWD 
+  855  ls
+  856  cd /opt/131224-wdm/dennis
+  857  cd $OLDPWD 
+  858  cd /opt/131224-wdm/dennis
+  859  ls
+  860  clear
+  861  vim dennis.sh
+  862  ls
+  863  nano dennis.sh 
+  864  chmod 744 dennis.sh 
+  865  ls
+  866  clear
+  867  ls -la
+  868  ./dennis.sh 
+  869  nano dennis.sh 
+  870  ./dennis.sh 
+  871  clear
+  872  cat dennis.sh 
+  873  nano dennis.sh 
+  874  ./dennis.sh 
+  875  pwd
+  876  cd /opt/131224-wdm/NIkIst
+  877  cd /opt/131224-wdm/NikIst
+  878  la
+  879  ls
+  880  $OLDPWD
+  881  echo $OLDPWD
+  882  vim nikita.sh
+  883  cat nikita.sh 
+  884  ls -a
+  885  ls -la
+  886  chmod 744 nikita.sh 
+  887  ls -la
+  888  ./nikita.sh
+  889  vim nikita.sh 
+  890  ./nikita.sh
+  891  pwd
+  892  cd /opt/131224-wdm/nataliia/
+  893  env
+  894  echo $OLDPWD
+  895  vim nataliia.sh
+  896  ls -l
+  897  chmod u+x nataliia.sh 
+  898  vim nataliia.sh
+  899  ./nataliia.sh 
+  900  cat nataliia.sh 
+  901  clear
+  902  env | grep PATH
+  903  ls -la /bin
+  904  cp nataliia.sh /usr/sbin
+  905  pwd 
+  906  export PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/opt/131224-wdm/nataliia 
+  907  cd 
+  908  nataliia.sh
+  909  export NATALIIA=/opt/131224-wdm/nataliia/nataliia.sh
+  910  $NATALIIA
+  911  echo $NATALIIA
+  912  $NATALIIA
+  913  exit
+  914  histori 
+  915  echo $OLDPWD
+  916  cd /opt/131224-wdm/yuliiaT
+  917  vim yuliiaT.sh
+  918  ./yuliiaT.sh
+  919  cat yuliiaT.sh
+  920  env
+  921  env | grep PATH
+  922  ls  -la /bin
+  923  cp yuliiaT.sh  /usr/sbin
+  924  pwd
+  925  export  PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin
+  926  export PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin
+  927  PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin
+  928  export PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/opt/131224-wdm/yuliiaT
+  929  cd
+  930  yuliia.sh
+  931  yuliiaT.sh
+  932  export YTY=/opt/131224-wdm/yuliiaT/yuliieT.sh
+  933  $YTY
+  934  cd /opt/131224-wdm/olha_prekrasna/
+  935  pwd
+  936  clear
+  937  env
+  938  echo $OLDPWD
+  939  cd /opt/131224-wdm/olha_prekrasna/
+  940  vim olga.sh
+  941  clear
+  942  ls -l
+  943  chmod u+x olga.sh
+  944  ./olga.sh
+  945  cat olga.sh
+  946  clear
+  947  env | grep PATH
+  948  /bin
+  949  ls -la /bin
+  950  cp olga.sh /usr/sbin
+  951  pwd
+  952  export PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/opt/131224-wdm/olha_prekrasna
+  953  cd
+  954  olga.sh
+  955  export OLGA=/opt/131224-wdm/olha_prekrasna
+  956  export OLGA=/opt/131224-wdm/olha_prekrasna/olga.sh
+  957  $OLGA
+  958  echo $OLGA
+  959  cd /opt/131224-wdm/Rumiia/
+  960  pwd
+  961  cd
+  962  history 
+  963  env
+  964  echo $OLDRWD
+  965  echo $OLDPWD
+  966  cd /opt/131224-wdm/Rumiia/
+  967  vim 1903_Rumiia.sh
+  968  ls -l
+  969  chmod u+x 1903_Rumiia.sh 
+  970  ./1903_Rumiia.sh 
+  971  cat 1903_Rumiia.sh 
+  972  env | grep PATH
+  973  ls -la /bin
+  974  cp 1903_Rumiia.sh /usr/sbin
+  975  pwd
+  976  export PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/opt/131224-wdm/Rumiia
+  977  cd
+  978  1903_Rumiia.sh 
+  979  export RUMIIA=/opt/131224-wdm/Rumiia/1903_Rumiia.sh
+  980  $RUMIIA
+  981  enw
+  982  env
+  983  echo PAHT
+  984  echo $PAHT
+  985  echo $PATH
+  986  cd /opt/131224-wdm/rechyn/
+  987  vim
+  988  vim script_1903.sh
+  989  cat script_1903.sh 
+  990  chmod 744 script_1903.sh
+  991  ls -la
+  992  ./script_1903.sh
+  993  env | grep PATH
+  994  pwd
+  995  env | grep PATH
+  996  export PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/opt/131224-wdm/rechyn
+  997  env | grep PATH
+  998  cd /opt/131224-wdm/chumak/
+  999  cd /opt/131224-wdm/olenagert
+ 1000  pwd
+ 1001  touch sleeper.sh 
+ 1002  nano sleeper.sh 
+ 1003  ls -l
+ 1004  chmod u+x sleeper.sh 
+ 1005  ./sleeper.sh
+ 1006  nano sleeper.sh
+ 1007  ./sleeper.sh
+ 1008  nano sleeper.sh
+ 1009  ./sleeper.sh 
+ 1010  cat cpu_info.txt
+ 1011  nano sleeper.sh
+ 1012  ./sleeper.sh
+ 1013  cat os_info.txt
+ 1014  nano sleeper.sh
+ 1015  ./sleeper.sh
+ 1016  cat os_name.txt
+ 1017  nano sleeper.sh
+ 1018  ./sleeper.sh
+ 1019  ls *.txt
+ 1020  nano sleeper.sh
+ 1021  ./sleeper.sh
+ 1022  ls *.txt
+ 1023  cat cpu_info.txt
+ 1024  cat os_info.txt
+ 1025  cat os_name.txt
+ 1026  nano sleeper.sh
+ 1027  chmod u+x
+ 1028  chmod +x sleeper.sh
+ 1029  chmod u+x sleeper.sh
+ 1030  ./sleeper.sh 
+ 1031  ls -l *.txt
+ 1032  cat cpu_info.txt
+ 1033  cat os_info.txt
+ 1034  cat os_name.txt
+ 1035  ls -l sleeper.sh
+ 1036  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/olenagert/sleeper.sh ~/Downloads/
+ 1037  history
+ 1038  nano ~/.bash_history
+ 1039  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/olenagert/bash_history ~/Downloads/
+ 1040  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/olenagert/bash_history ~/Downloads/history > my_commands.txt
+ 1041  history > my_commands.txt
